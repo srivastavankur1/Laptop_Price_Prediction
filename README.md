@@ -22,5 +22,4 @@ We have collected a comprehensive dataset comprising information about different
 - Fine-tuning model parameters to optimize performance.
 - Continuous monitoring and updating of the model with new data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
